@@ -1,3 +1,8 @@
 /* Здесь будут все стили проекьа */
-header {background-color: red;
+header {background-color: orange;
+}
+
+
+main {
+    background-color: red;
 }
